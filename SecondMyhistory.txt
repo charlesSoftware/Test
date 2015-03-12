@@ -1,0 +1,102 @@
+    1  pwd
+    2  ls
+    3  ls -al
+    4  cat .gitconfig 
+    5  git status
+    6  git status .
+    7  git status /
+    8  git status
+    9  git init
+   10  ls
+   11  ls -al
+   12  cd .git
+   13  ls
+   14  cat config 
+   15  git config --global user.name "ychai@my.okcu.edu"
+   16  cat config 
+   17  ls
+   18  cat info/
+   19  cd info/
+   20  ls
+   21  cd /
+   22  ls
+   23  cd ..
+   24  ls
+   25  cd x
+   26  ls
+   27  ls
+   28  ls
+   29  cd .
+   30  ls
+   31  ls -al
+   32  cat .gitconfig 
+   33  git config --global user.name charles
+   34  cat .gitconfig 
+   35  git status
+   36  ls
+   37  cd myFirst/
+   38  ls
+   39  ls -al
+   40  ls
+   41  git status
+   42  add .
+   43  git commit -m "add Myhistory"
+   44  git add .
+   45  git status
+   46  git commit -m "add Myhistory"
+   47  git status
+   48  git push https://github.com/charlesSoftware/Test.git
+   49  git pull https://github.com/charlesSoftware/Test.git
+   50  ls
+   51  git push https://github.com/charlesSoftware/Test.git
+   52  git push https://github.com/charlesSoftware/Test.git
+   53  ls
+   54  ls
+   55  vi README.md 
+   56  ls
+   57  git add .
+   58  git commit -m "modified readme file"
+   59  git status
+   60  git push https://github.com/charlesSoftware/Test.git
+   61  ls
+   62  history
+   63  git diff
+   64  ls
+   65  vi PHP.c
+   66  ls
+   67  git diff
+   68  git diff .
+   69  git status
+   70  git diff
+   71  add PHP.c 
+   72  git add PHP.c
+   73  git diff
+   74  git commit -m "add PHP.c file"
+   75  git diff
+   76  git status
+   77  git log
+   78  history
+   79  git push https://github.com/charlesSoftware/Test/git
+   80  git push https://github.com/charlesSoftware/Test.git
+   81  ls
+   82  ls
+   83  rm Myhistory.txt 
+   84  history
+   85  git help
+   86  git diff
+   87  git help
+   88  ls
+   89  diff PHP.c hello.c 
+   90  git diff .
+   91  hitory
+   92  history
+   93  git push https://github.com/charlesSoftware/Test.git
+   94  history
+   95  git pull https://github.com/charlesSoftware/Test.git
+   96  ls
+   97  ls -al
+   98  git clone https://github.com/charlesSoftware/Test.git
+   99  git clone https://github.com/pubnub/java.git
+  100  git clone https://github.com/pubnub/java.git
+  101  git push https://github.com/pubnub/java.git
+  102  history >SecondMyhistory
